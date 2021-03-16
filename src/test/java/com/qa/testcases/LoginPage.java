@@ -3,7 +3,7 @@ package com.qa.testcases;
 public class LoginPage {
 
 	public void login() {
-		System.out.println("Login method 1");
+	System.out.println("Login method 1");
 	}
 	
 
@@ -13,7 +13,10 @@ public class LoginPage {
 	
 	public void login3(){
 	System.out.println("Login method 3");
-
+	}
+	
+	public void login4(){
+	System.out.println("Login method 4");
 	}
 	
 }
