@@ -10,7 +10,7 @@ public class LoginPage {
 	System.out.println("Login method 2");
 	}
 	
-	public void login3(){
+	public void login 3(){
 	System.out.println("Login method 3");
 	}
 }
