@@ -7,7 +7,11 @@ public class LoginPage {
 	}
 	
 	public void login 2(){
-	System.out.println("Login method 1");
+	System.out.println("Login method 2");
+	}
+	
+	public void login3(){
+	System.out.println("Login method 3");
 	}
 }
 
