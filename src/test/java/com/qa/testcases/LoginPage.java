@@ -6,7 +6,7 @@ public class LoginPage {
 		System.out.println("Login method 1");
 	}
 	
-	public void login 2(){
+	public void login  2(){
 	System.out.println("Login method 2");
 	}
 	
