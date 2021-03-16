@@ -6,12 +6,15 @@ public class LoginPage {
 		System.out.println("Login method 1");
 	}
 	
-	public void login 2(){
+
+	public void login2(){
 	System.out.println("Login method 2");
 	}
 	
 	public void login3(){
 	System.out.println("Login method 3");
+
 	}
+	
 }
 
