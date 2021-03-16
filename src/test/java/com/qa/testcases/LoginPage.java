@@ -19,5 +19,9 @@ public class LoginPage {
 	System.out.println("Login method 4");
 	}
 	
+	public void login6(){
+	System.out.println("Login method 6");
+	}
+	
 }
 
